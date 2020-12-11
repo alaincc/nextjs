@@ -114,7 +114,12 @@
 .logo {
   height: 1em;
 }
-
+.imglogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
 @media (max-width: 600px) {
   .grid {
     width: 100%;
