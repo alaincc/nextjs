@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <img src="/southfloridapressurecleaning.jpeg" alt="Logo"  />
+        <img src="/southfloridapressurecleaning.jpeg" alt="Logo" className={styles.logo} />
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">South Florida Pressure Cleaning !</a>
         </h1>
